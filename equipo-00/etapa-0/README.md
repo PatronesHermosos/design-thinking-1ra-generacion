@@ -15,7 +15,7 @@ Describa en una sola frase el problemática relevante para tu comunidad (el foco
 ## Protocolo de la entrevista:
 
 3-5 preguntas que harán durante tu entrevista:
-(No dudes en consultar los vídeos en la plataforma y las diapositivas desde la sesión interactiva)
+(Para construir preguntas apropriadas, no dudes en consultar los vídeos en la plataforma y las diapositivas desde la sesión interactiva)
 
 1.
 
