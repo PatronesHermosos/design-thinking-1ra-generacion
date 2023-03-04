@@ -10,7 +10,7 @@ Nombre del equipo: team 8
 
 Nombre de los miembros del equipo: Carolina y Julia
 
-Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final):
+Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final):Los residuos de las empresas y la contaminación que cometen.
 
 ## Protocolo de la entrevista:
 
