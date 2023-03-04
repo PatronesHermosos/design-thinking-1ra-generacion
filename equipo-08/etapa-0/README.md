@@ -6,9 +6,9 @@ Para completar la etapa 0 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: team 8
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Carolina y Julia
 
 Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final):
 
@@ -18,7 +18,7 @@ Describa en una sola frase el problemática relevante para tu comunidad (el foco
 (Para construir preguntas apropriadas, no dudes en consultar los vídeos en la plataforma y las diapositivas desde la sesión interactiva)
 
 1.
-
+¿
 2.
 
 3.
