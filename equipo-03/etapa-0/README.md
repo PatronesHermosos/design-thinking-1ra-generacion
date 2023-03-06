@@ -8,18 +8,18 @@ Para completar la etapa 0 del proyecto final, llena la siguiente información:
 
 Nombre del equipo: Nutrir-Mente
 
-Nombre de los miembros del equipo:Jenny, Gabriela, Fernanda
+Nombre de los miembros del equipo: Jenny, Gabriela, Fernanda
 
-Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final):
+Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final): La salud mental post-pandemia.
 
 ## Protocolo de la entrevista:
 
 3-5 preguntas que harás durante tu entrevista:
 (Para construir preguntas apropriadas, no dudes en consultar los vídeos en la plataforma y las diapositivas desde la sesión interactiva)
 
-1.
+1.¿ Qué rutinas de tu diario vivir has cambiado después de la pandemia?
 
-2.
+2.  
 
 3.
 
