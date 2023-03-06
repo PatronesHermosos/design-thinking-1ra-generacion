@@ -6,9 +6,9 @@ Para completar la etapa 0 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: Nutrir-Mente
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo:Jenny, Gabriela, Fernanda
 
 Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final):
 
