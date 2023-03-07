@@ -13,4 +13,5 @@ Describa en una sola frase el planteamiento del problema, tomando en cuenta tus 
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
-Inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github. (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
+(Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
