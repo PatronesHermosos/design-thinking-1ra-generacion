@@ -14,6 +14,8 @@ Describa en una sola frase el problemática relevante para tu comunidad (el foco
 
 ## Protocolo de la entrevista:
 
+El entrevistado (ideal) es el intendente de la ciudad de Córdoba Martín Llaryora que es candidato a gobernador y ha implementado en la currícula de las Escuelas Municipales Programación y robótica y la entrevista se dirige a si se puede hacer lo mismo en las Escuelas Públicas provinciales.
+
 3-5 preguntas que harás durante tu entrevista:
 (Para construir preguntas apropriadas, no dudes en consultar los vídeos en la plataforma y las diapositivas desde la sesión interactiva)
 
