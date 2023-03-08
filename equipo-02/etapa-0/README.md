@@ -6,7 +6,7 @@ Para completar la etapa 0 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: "Educacion de hoy" 
 
 Nombre de los miembros del equipo: Estefania Verka y Laura Falcón
 
