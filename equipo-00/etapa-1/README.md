@@ -7,9 +7,9 @@ Para entregar la etapa 1 del proyecto final, llena el siguiente formulario y sub
 
 Nombre del equipo: Equipo 00
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Persona 1
 
-Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
+Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana: _____
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
