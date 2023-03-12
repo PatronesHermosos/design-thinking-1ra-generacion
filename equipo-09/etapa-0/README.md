@@ -6,11 +6,14 @@ Para completar la etapa 0 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: 
 
 Nombre de los miembros del equipo:
+  - Claudia Lucía Torres Zárate
+  - Lucero Condori Rivera
 
-Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final):
+Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final): 
+  Actualmente, hay madres que desean volver a trabajar después de haberse dedicado exclusivamente a la crianza de sus hijos; pero tienen dificultades en el proceso.
 
 ## Protocolo de la entrevista:
 
