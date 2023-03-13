@@ -5,13 +5,20 @@ Para entregar la etapa 1 del proyecto final, llena el siguiente formulario y sub
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: Nutrir-Mente
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Jenny, Claudia, Fabiola.
 
 Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
+
+Problema:
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
 A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+
+Sintetización de notas del equipo en Jamboard:
+
+https://jamboard.google.com/d/1L2Je3h9bV1Wx3gbwtYzCKuclD_yWWAhFbShj2_Ej0GA/edit?usp=sharing
+
