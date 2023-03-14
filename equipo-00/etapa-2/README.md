@@ -9,7 +9,7 @@ Nombre del equipo:
 
 Nombre de los miembros del equipo:
 
-## Sintetización de Apuntes Tomados durante tu Entrevista
+## Ideación (generación + organización de ideas) y el vídeo del equipo
 
 A continuación, inserta aquí una imagen de la lluvia de ideas de tu equipo.
 Por ejemplo, si hicieron la lluvia usando 8S, podrían insertar el 8S completado por cada miembro del equipo a continuación.
