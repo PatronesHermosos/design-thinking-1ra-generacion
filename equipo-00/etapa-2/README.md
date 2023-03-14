@@ -11,9 +11,13 @@ Nombre de los miembros del equipo:
 
 ## Ideación (generación + organización de ideas) y el vídeo del equipo
 
+### Lluvia de ideas
+
 A continuación, inserta aquí una imagen de la lluvia de ideas de tu equipo.
 Por ejemplo, si hicieron la lluvia usando 8S, podrían insertar el 8S completado por cada miembro del equipo a continuación.
 
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+
+### Vídeos
 
 Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas + el uso de SCAMPER para reducir las ideas a una idea seleccionada:
