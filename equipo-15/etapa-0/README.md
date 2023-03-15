@@ -6,7 +6,7 @@ Para completar la etapa 0 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: ______
 
 Nombre de los miembros del equipo:
 
