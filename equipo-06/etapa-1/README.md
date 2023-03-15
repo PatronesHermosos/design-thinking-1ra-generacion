@@ -15,3 +15,10 @@ Describa en una sola frase el planteamiento del problema, tomando en cuenta tus 
 
 A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+
+Quality Education Córdoba
+Gabriela García Sánchez
+
+Lograr que la educación tecnológica (programación y robótica) llegue a todos los espacios de educación pública.
+![Llaryora](https://user-images.githubusercontent.com/100386928/225183339-ea5cffdd-da98-4661-a464-263568142a72.jpeg)
+![Entrevista 1](https://user-images.githubusercontent.com/100386928/225183356-adf58129-a71e-42e7-b94d-647ea17e720a.png)
