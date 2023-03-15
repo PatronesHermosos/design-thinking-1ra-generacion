@@ -1,7 +1,7 @@
 # Etapa 2 del Curso Design Thinking 1ra Generación de Patrones Hermosos
 
 ¡Bienvenid@s!
-Para entregar la etapa 2 del proyecto final, llena el siguiente formulario, sube una foto de tu lluvia de ideas a Github, graba el vídeo y inserta su liga en el siguiente formulario.
+Para entregar la etapa 2 del proyecto final, llena el siguiente formulario, sube una foto de tu lluvia de ideas a Github (por ej, usando 8S), graba el vídeo y inserta su liga en el siguiente formulario.
 
 ## Información General
 
@@ -19,4 +19,4 @@ Por ejemplo, si hicieron la lluvia usando 8S, podrían insertar el 8S completado
 
 ### Vídeo
 
-Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas + el uso de SCAMPER para reducir las ideas a una idea seleccionada:
+Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej., usando 8S) + el uso de SCAMPER para reducir las ideas a una idea seleccionada:
