@@ -5,9 +5,9 @@ Para entregar la etapa 2 del proyecto final, llena el siguiente formulario, sube
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: Equipo 00
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: ____
 
 ## Ideación (generación + organización de ideas) y el vídeo del equipo
 
@@ -19,4 +19,4 @@ Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar e
 
 ### Video
 
-Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej., usando 8S) + el uso de SCAMPER para reducir las ideas a una idea seleccionada:
+Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej., usando 8S) + el uso de SCAMPER para reducir las ideas a una idea seleccionada: 
