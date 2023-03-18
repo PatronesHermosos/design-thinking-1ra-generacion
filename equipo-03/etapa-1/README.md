@@ -11,7 +11,7 @@ Nombre de los miembros del equipo: Jenny, Claudia, Fabiola.
 
 Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
 
-Problema:
+Problema: ¿Cuál estatégia se podria priorizar para promover la salud mental y mejorar el bienestar de las personas después de la pandemia COVID 19? 
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
