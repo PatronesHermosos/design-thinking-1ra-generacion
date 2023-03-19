@@ -16,6 +16,8 @@ Nombre de los miembros del equipo: Jenny, Claudia, Fabiola
 A continuación, inserta aquí una imagen de la lluvia de ideas de tu equipo.
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
 Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar el 8S _completado por cada miembro del equipo_ a continuación:
+![image](https://user-images.githubusercontent.com/91504210/226146561-27f5679d-0a9f-4079-ba11-f8cc4682a6e2.png)
+
 
 ### Video
 
