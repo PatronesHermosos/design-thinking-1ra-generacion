@@ -28,3 +28,4 @@ Dificultades para enseñar matemática a los estudiantes
 3. ¿De qué manera aprenden mejor matemáticas?
 
 Entendimos que el protocolo puede cambiar. El proposito principal del protocolo en esta etapa es prepararte para hacer una entrevista la semana que viene con un miembro de la comunidad que tu proyecto puede servir (o, en otros terminos, un posible usuario de tu producto). Por eso, esta semana, también es importante identificar la persona que entrevistarás. 
+Entrevistaré a docentes
