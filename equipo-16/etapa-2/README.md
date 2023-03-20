@@ -14,10 +14,17 @@ Mary Ann Del Rocio Hernani Reynoso
 
 ### Lluvia de ideas
 
+![image](https://user-images.githubusercontent.com/127119703/226225474-6be81e13-45b4-4a6a-ad3a-a038f6954ce2.png)
+
+
 A continuación, inserta aquí una imagen de la lluvia de ideas de tu equipo.
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
 Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar el 8S _completado por cada miembro del equipo_ a continuación:
 
+![image](https://user-images.githubusercontent.com/127119703/226225525-8b55a513-dadb-4d82-a1ed-826046f15cbb.png)
+
+
 ### Video
 
 Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej., usando 8S) + el uso de SCAMPER para reducir las ideas a una idea seleccionada:
+https://youtu.be/KktVpPd6NtQ
