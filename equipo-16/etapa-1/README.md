@@ -20,3 +20,4 @@ Mejora de la  enseñanza de las matemáticas
 
 A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+![image](https://user-images.githubusercontent.com/127119703/226222526-b46b3cfe-7607-43d7-a8ba-56a18830e6cc.png)
