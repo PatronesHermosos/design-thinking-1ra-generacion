@@ -5,9 +5,10 @@ Para entregar la etapa 2 del proyecto final, llena el siguiente formulario, sube
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo:EduEncers
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo:  
+Mary Ann Del Rocio Hernani Reynoso
 
 ## Ideación (generación + organización de ideas) y el vídeo del equipo
 
