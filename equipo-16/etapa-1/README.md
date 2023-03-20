@@ -6,10 +6,15 @@ Para entregar la etapa 1 del proyecto final, llena el siguiente formulario y sub
 ## Información General
 
 Nombre del equipo:
+EduEncers
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo :
+
+Mary Ann Del Rocio Hernani Reynoso
 
 Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
+
+Mejora de la  enseñanza de las matemáticas
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
