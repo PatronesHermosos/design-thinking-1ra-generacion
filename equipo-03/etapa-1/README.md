@@ -9,7 +9,7 @@ Nombre del equipo: Nutrir-Mente
 
 Nombre de los miembros del equipo: Jenny, Claudia, Fabiola.
 
-Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
+Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana: Estrategias para mantener la salud mental despues de pandemia.
 
 Problema: Debido a los diferentes impactos que la pandemia tuvo en las personas, identificar los sentimientos y saber expresarlos sanamente son dificultades que las personas aún atraviesan hasta el momento ¿Cuál estatégia se podria priorizar para promover la salud mental y mejorar el bienestar de las personas después de la pandemia COVID 19? 
 
