@@ -13,6 +13,10 @@ Describa en una sola frase el planteamiento del problema:
 
 ## Prototipado Low Fidelity
 
+Describa en una sola frase el objetivo de tu prototipado low fidelity: 
+
+(No te olvides de que no es necesario crear un prototipado que muestra la idea entera que tienes. Podrás elegir solamente una parte de la idea, declarar esa parte en el objetivo del prototipado, y crear el prototipado correspondiente.)
+
 A continuación, inserta aquí una imagen de tu prototipado low fidelity:
 
 
