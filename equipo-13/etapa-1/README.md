@@ -17,4 +17,5 @@ MAPA DE AFINIDAD
 A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
 
-![20230310_101056_0000](https://user-images.githubusercontent.com/126962371/224367848-030583cd-2bc4-483b-9698-d0ae1e79a56a.png)
+
+![20230320_194602_0000](https://user-images.githubusercontent.com/126962371/226500839-7ebec65c-17ce-493c-98f8-63391581ed72.png)
