@@ -5,7 +5,7 @@ Para entregar la etapa 3 del proyecto final, llena el siguiente formulario, inse
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: Equipo 00
 
 Nombre de los miembros del equipo: 
 
