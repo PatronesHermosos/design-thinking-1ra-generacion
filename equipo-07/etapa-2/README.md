@@ -5,9 +5,9 @@ Para entregar la etapa 2 del proyecto final, llena el siguiente formulario, sube
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: ¿Y ahora qué?
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Sofía Wislawa Cruz Cerón 
 
 ## Ideación (generación + organización de ideas) y el vídeo del equipo
 
@@ -16,6 +16,9 @@ Nombre de los miembros del equipo:
 A continuación, inserta aquí una imagen de la lluvia de ideas de tu equipo.
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
 Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar el 8S _completado por cada miembro del equipo_ a continuación:
+
+![Lluvia de ideas 8s](https://user-images.githubusercontent.com/83803323/227734550-471488f6-05de-4b2f-b90c-e7c530504cd0.jpg)
+
 
 ### Video
 
