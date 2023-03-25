@@ -5,11 +5,10 @@ Para entregar la etapa 1 del proyecto final, llena el siguiente formulario y sub
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equip: SaludMedicinal
+Nombre de los miembros del equipo:Ayelen Gutierrez
 
-Nombre de los miembros del equipo:
-
-Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
+Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana: El planeamiento del problema de la app de recordatorios de medicamentos implicaría diseñar una interfaz intuitiva y fácil de usar desde gente común y gente mayor que permita recibir notificaciones precisas y personalizadas para garantizar el cumplimiento de sus medicinas.
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
