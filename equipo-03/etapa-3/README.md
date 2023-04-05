@@ -5,9 +5,9 @@ Para entregar la etapa 3 del proyecto final, llena el siguiente formulario, inse
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: Nutrir-Mente
 
-Nombre de los miembros del equipo: 
+Nombre de los miembros del equipo: Jenny, Fabiola, Claudia
 
 Describa en una sola frase el planteamiento del problema: 
 
