@@ -17,6 +17,8 @@ A continuación, inserta aquí una imagen de la lluvia de ideas de tu equipo.
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
 Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar el 8S _completado por cada miembro del equipo_ a continuación:
 
+![20230409_202953_0000](https://user-images.githubusercontent.com/126962371/230808816-1489418d-7435-4bca-94fd-8fd60918a65e.png)
+
 ### Video
 
 Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej., usando 8S) + el uso de SCAMPER para reducir las ideas a una idea seleccionada:
