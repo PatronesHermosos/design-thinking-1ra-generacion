@@ -15,7 +15,8 @@ Describa en una sola frase su proyecto final:
 ## Prueba del prototipado
 
 Prueben su prototipo de baja fidelidad con otra persona (amigo/familiar), idealmente alguien que sea un usuario objetivo de su proyecto. 
-_Es recomendado que cada miembro del equipo muestra el prototipo a la(s) persona(s) que entrevistó durante la Etapa 1 del proyecto._
+_Es recomendable que cada miembro del equipo muestra el prototipo a la(s) persona(s) que entrevistó durante la Etapa 1 del proyecto._
+
 Descripción escrita (2 párrafos como máximo) sobre los comentarios que recibiste y los cambios realizados del prototipo de baja fidelidad al prototipo de alta fidelidad:
 
 ## Prototipado alta fidelidad
