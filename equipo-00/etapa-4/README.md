@@ -10,7 +10,7 @@ Nombre del equipo:
 
 Nombre de los miembros del equipo:
 
-Describa en una sola frase to proyecto final:
+Describa en una sola frase su proyecto final:
 
 ## Prueba del prototipado
 
@@ -20,6 +20,6 @@ Descripción escrita (2 párrafos como máximo) sobre los comentarios que recibi
 
 ## Prototipado alta fidelidad
 
-Tomando como base estas conversaciones con los usuarios potenciales del producto que están diseñando propongan cambios a su prototipo en función de la prueba de usuario y implementen estos cambios en un prototipo de alta fidelidad de su idea de proyecto final. Suba una foto o video del prototipado high fidelity aquí:
+Tomando como base estas conversaciones con los usuarios potenciales del producto que están diseñando, propongan cambios a su prototipo en función de la prueba de usuario y implementen estos cambios en un prototipo de alta fidelidad de su idea de proyecto final. Suba una foto o video del prototipado de alta fidelidad aquí:
 
 (Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo. Para insertar un vídeo, suba el vídeo a YouTube/Vimeo/etc + copia y pega la liga al vídeo aquí. Github no permite subir un vídeo archivo.)
