@@ -10,7 +10,7 @@ Nombre del equipo:
 
 Nombre de los miembros del equipo:
 
-Describa en una sola frase el problemática relevante para tu comunidad (el foco de tu proyecto final):
+Describa en una sola frase to proyecto final:
 
 ## Prueba del prototipado
 
