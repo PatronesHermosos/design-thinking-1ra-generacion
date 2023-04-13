@@ -19,6 +19,11 @@ Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar e
 
 ![20230409_204333_0000](https://user-images.githubusercontent.com/126962371/230809116-0f05fe41-1b44-4957-aa93-f44c61ec4847.png)
 
+![Recolectar ropa](https://user-images.githubusercontent.com/126962371/231628258-89a5e056-b4dc-427e-b323-da80b53b6fbb.png)
+
+![Recolectar ropa (1)](https://user-images.githubusercontent.com/126962371/231628341-30696408-ca7e-4d58-9eb2-e0c9f92b9e31.png)
+
+
 
 ### Video
 
