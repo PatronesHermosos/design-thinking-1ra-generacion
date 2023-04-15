@@ -6,7 +6,7 @@ Para completar la etapa 4 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: Equipo 00
 
 Nombre de los miembros del equipo:
 
