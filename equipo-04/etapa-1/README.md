@@ -5,9 +5,9 @@ Para entregar la etapa 1 del proyecto final, llena el siguiente formulario y sub
 
 ## Información General
 
-Nombre del equipo:
+Nombre del equipo: TIG (The Ideas Generators)
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Ana Jimena, Ana, Jimena, A.J.
 
 Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
 
