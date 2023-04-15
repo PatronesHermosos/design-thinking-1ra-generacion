@@ -21,9 +21,9 @@ Describa en una sola frase la problemática relevante para tu comunidad (el foco
 
 2. ¿En su vida diaria utiliza constantemente artículos electrónicos?
 
-3. ¿Con que frecuancia utiliza aparatos que ocupen conectarse a la corriente en su trabajo?
+3. ¿Con qué frecuencia utiliza aparatos que ocupen conectarse a la corriente en su trabajo?
 
-4. ¿Qué opina de los smarthomes?
+4. ¿Qué opina de los smart homes?
 
 5. ¿Consideraría el usar aplicaciones para gestionar su hogar?
 
