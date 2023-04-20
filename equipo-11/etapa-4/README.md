@@ -24,3 +24,5 @@ Descripción escrita (2 párrafos como máximo) sobre los comentarios que recibi
 Tomando como base estas conversaciones con los usuarios potenciales del producto que están diseñando, propongan cambios a su prototipo en función de la prueba de usuario y implementen estos cambios en un prototipo de alta fidelidad de su idea de proyecto final. Suba una foto o video del prototipado de alta fidelidad aquí:
 
 (Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo. Para insertar un vídeo, suba el vídeo a YouTube/Vimeo/etc + copia y pega la liga al vídeo aquí. Github no permite subir un vídeo archivo.)
+![3](https://user-images.githubusercontent.com/100257025/233256660-3d306f60-837c-4dce-9a54-cdc4fad34927.png)
+https://www.canva.com/design/DAFf9jgzzT8/bX2eNbyyiyB9WlFX2bA4ng/watch?utm_content=DAFf9jgzzT8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
