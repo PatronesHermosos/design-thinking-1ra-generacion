@@ -27,4 +27,4 @@ Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej
 ![8](https://user-images.githubusercontent.com/100257025/228137976-a8ba0a6a-4ba8-4b03-88f4-d0aad2d6607a.png)
 
 PRESENTACIÓN EN VIDEO DEL PROYECTO
-https://www.canva.com/design/DAFeb8JRcc0/u2RLKKbG2dmjQ7W6TNZQmw/watch?utm_content=DAFeb8JRcc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFeb8JRcc0/x_wx_oxhAMwupzob5QH3Kw/watch?utm_content=DAFeb8JRcc0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
