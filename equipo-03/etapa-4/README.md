@@ -28,3 +28,5 @@ https://docs.google.com/spreadsheets/d/1fJ0UnFivS7tUGzS8tbQaAQoobMX8a4vA4XmBtgJi
 Tomando como base estas conversaciones con los usuarios potenciales del producto que están diseñando, propongan cambios a su prototipo en función de la prueba de usuario y implementen estos cambios en un prototipo de alta fidelidad de su idea de proyecto final. Suba una foto o video del prototipado de alta fidelidad aquí:
 
 (Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo. Para insertar un vídeo, suba el vídeo a YouTube/Vimeo/etc + copia y pega la liga al vídeo aquí. Github no permite subir un vídeo archivo.)
+![image](https://user-images.githubusercontent.com/91504210/233867980-48b60f25-f64f-4dd5-aed3-5d45a3bd0127.png)
+![image](https://user-images.githubusercontent.com/91504210/233867998-45edb8e6-ec05-4d6a-b089-38b6baebc2f0.png)
