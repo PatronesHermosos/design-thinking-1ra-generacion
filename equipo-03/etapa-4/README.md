@@ -25,7 +25,7 @@ Las sugerencias de la comunidad de Patrones Hermosos y los entrevistados se pued
 Lo relevante fue que muchos usuarios consideraron que la idea es buena pero no todos usarían la aplicación, lo que sugiere mayores esfuerzos en el diseño de testes para verificar el concepto y la usabilidad.
 Una idea interesante que surgió fue el interés de tener un registro o bitácora de las actividades realizadas en la aplicación en periodos de tiempo, esto tendría un uso como un diario o bitácora con un análisis cuantitativo que permita realizar una evaluación general del estado de animo de la persona a lo largo del tiempo y alertar si existe alguna anomalía.
 
-Ver resutladors de la etapa de prueba:
+Ver resultados de la etapa de prueba:
 
 https://docs.google.com/spreadsheets/d/1fJ0UnFivS7tUGzS8tbQaAQoobMX8a4vA4XmBtgJiaME/edit?usp=sharing
 
@@ -37,5 +37,7 @@ Tomando como base estas conversaciones con los usuarios potenciales del producto
 
 Ejemplos del prototipo
 
-![image](https://user-images.githubusercontent.com/91504210/233867980-48b60f25-f64f-4dd5-aed3-5d45a3bd0127.png)
+![image](https://user-images.githubusercontent.com/91504210/233871290-b1efae47-0b10-4277-8f90-dc95bd534f54.png)
 ![image](https://user-images.githubusercontent.com/91504210/233867998-45edb8e6-ec05-4d6a-b089-38b6baebc2f0.png)
+![image](https://user-images.githubusercontent.com/91504210/233871301-6b491aad-45b7-4ba5-b6e3-b71cafbdee4e.png)
+
