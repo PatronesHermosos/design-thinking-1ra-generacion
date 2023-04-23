@@ -6,11 +6,11 @@ Para completar la etapa 4 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: Nutrir-Mente
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Jenny, Fabiola, Claudia
 
-Describa en una sola frase su proyecto final:
+Describa en una sola frase su proyecto final: Aplicativo para promover la salud mental de las personas.
 
 ## Prueba del prototipado
 
@@ -18,6 +18,10 @@ Prueben su prototipo de baja fidelidad con otra persona (amigo/familiar), idealm
 _Es recomendable que cada miembro del equipo muestra el prototipo a la(s) persona(s) que entrevistó durante la Etapa 1 del proyecto._
 
 Descripción escrita (2 párrafos como máximo) sobre los comentarios que recibiste y los cambios realizados del prototipo de baja fidelidad al prototipo de alta fidelidad:
+
+
+
+https://docs.google.com/spreadsheets/d/1fJ0UnFivS7tUGzS8tbQaAQoobMX8a4vA4XmBtgJiaME/edit?usp=sharing
 
 ## Prototipado alta fidelidad
 
