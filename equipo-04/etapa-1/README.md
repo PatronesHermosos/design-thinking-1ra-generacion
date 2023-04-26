@@ -15,3 +15,5 @@ Describa en una sola frase el planteamiento del problema, tomando en cuenta tus 
 
 A continuación, inserta aquí una imagen de la sintetización de tus apuntes a tu carpeta grupal Github: 
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+
+<img width="932" alt="Captura de Pantalla 2023-04-25 a la(s) 22 11 05" src="https://user-images.githubusercontent.com/100461530/234468027-faa22f8d-2615-4578-99ff-1318276e8f1f.png">
