@@ -9,7 +9,7 @@ Nombre del equipo: TIG (The Ideas Generators)
 
 Nombre de los miembros del equipo: Ana Jimena, Ana, Jimena, A.J.
 
-Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana:
+Describa en una sola frase el planteamiento del problema, tomando en cuenta tus aprendizajes desde la entrevista que completaste esta semana: Loa problemas de voltaje y malos hábitos al usar dispositivos electrónicos afectan a la gente.
 
 ## Sintetización de Apuntes Tomados durante tu Entrevista
 
