@@ -22,11 +22,11 @@ Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar e
 Utilizamos 8S
 
 Claudia
-
 ![8S 1](https://user-images.githubusercontent.com/28910027/234741240-3abf9502-4de7-4370-8f8f-a2d65803eabb.png)
 
-
 Lucero 
+![8S 2](https://user-images.githubusercontent.com/28910027/234748226-c74f6ad8-2ecc-400a-a37c-aa7ef33ee9ad.png)
+
 
 
 
