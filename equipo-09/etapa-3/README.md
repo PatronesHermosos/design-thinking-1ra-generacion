@@ -9,7 +9,7 @@ Nombre del equipo: Educación y Oportunidades
 
 Nombre de los miembros del equipo: Claudia Lucía Torres Zárate Lucero Condori Rivera
 
-Describa en una sola frase el planteamiento del problema: 
+Describa en una sola frase el planteamiento del problema: Madres que dejaron de trabajar para cuidar a sus hijos/as para ser amas de casa y que ahora desean reincorporarse al ámbito laboral.
 
 ## Prototipado Low Fidelity
 
