@@ -5,9 +5,9 @@ Para entregar la etapa 3 del proyecto final, llena el siguiente formulario, inse
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: Educación y Oportunidades
 
-Nombre de los miembros del equipo: 
+Nombre de los miembros del equipo: Claudia Lucía Torres Zárate Lucero Condori Rivera
 
 Describa en una sola frase el planteamiento del problema: 
 
