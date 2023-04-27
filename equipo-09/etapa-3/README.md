@@ -15,7 +15,7 @@ Describa en una sola frase el planteamiento del problema: Madres que dejaron de 
 
 ### Objetivo
 
-Describa en una sola frase el _objetivo_ de tu prototipado low fidelity: 
+Describa en una sola frase el _objetivo_ de tu prototipado low fidelity: Ver la funcionalidad y opciones de las pantallas principales de nuestra App móvil.
 
 
 (No te olvides de que no es necesario crear un prototipado que muestra la idea entera que tienes. Podrás elegir solamente una parte de la idea, declarar esa parte en el objetivo del prototipado, y crear el prototipado correspondiente.)
