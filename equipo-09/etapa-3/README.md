@@ -23,11 +23,22 @@ Describa en una sola frase el _objetivo_ de tu prototipado low fidelity:
 ### Prototipado
 
 A continuación, inserta aquí una imagen de tu _prototipado low fidelity_:
-
-
-
 (Podría ser una foto o una captura de pantalla. Para insertar una imagen a Github, podrías jalarla dentro de este formulario cuando estás editándolo.)
+
+Pantalla de Inicio de APP:
+
+![IMG_20230426_231259](https://user-images.githubusercontent.com/28910027/234758038-8e8492e8-1f9f-4de6-921e-d195fe191620.jpg)
+
+Pantalla de Explorar de APP:
+![IMG_20230426_231304](https://user-images.githubusercontent.com/28910027/234758108-7aba78c8-b771-4482-b347-fdfa29b62a4c.jpg)
+
+Pantalla de Mis Cursos de APP:
+![IMG_20230426_231313](https://user-images.githubusercontent.com/28910027/234758185-70167af7-06b4-4d68-a0ed-565596a64922.jpg)
+
+Opcionesde menu lateral de APP:
+![IMG_20230426_231318](https://user-images.githubusercontent.com/28910027/234758234-1ddf2fa0-ab21-4396-a748-68128ada2186.jpg)
+
 
 ### Video
 
-Liga al _video_ de 5 minutos mostrando el prototipado low fidelity:
+Liga al _video_ de 5 minutos mostrando el prototipado low fidelity: https://youtu.be/HcH8nwYDSjM
