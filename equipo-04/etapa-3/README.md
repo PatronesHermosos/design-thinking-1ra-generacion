@@ -5,17 +5,17 @@ Para entregar la etapa 3 del proyecto final, llena el siguiente formulario, inse
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: TIG (The Idea Generator)
 
-Nombre de los miembros del equipo: 
+Nombre de los miembros del equipo: Ana Jimena, Ana, Jimena, A.J.
 
-Describa en una sola frase el planteamiento del problema: 
+Describa en una sola frase el planteamiento del problema: Crear un dispositivo capaza de hacer miroahorros de energía y que permita cuidar los apratos de las fallas de voltaje.
 
 ## Prototipado Low Fidelity
 
 ### Objetivo
 
-Describa en una sola frase el _objetivo_ de tu prototipado low fidelity: 
+Describa en una sola frase el _objetivo_ de tu prototipado low fidelity: Empujador de conectores que además proteja los enchufes con una resistencia individual. Esto se podra controlar por medio de una aplicaión.
 
 
 (No te olvides de que no es necesario crear un prototipado que muestra la idea entera que tienes. Podrás elegir solamente una parte de la idea, declarar esa parte en el objetivo del prototipado, y crear el prototipado correspondiente.)
