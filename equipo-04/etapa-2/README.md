@@ -20,4 +20,7 @@ Por ejemplo, si tu equipo hizo la lluvia de ideas usando 8S, podrías insertar e
 
 ### Video
 
-Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej., usando 8S) + el uso de SCAMPER para reducir las ideas a una idea seleccionada:
+Liga al video de 5 minutos que presenta a tu equipo + la lluvia de ideas (por ej., usando 8S) + el uso de SCAMPER para reducir las ideas a una idea seleccionada: 
+https://drive.google.com/file/d/1rqmTqx43rlkVAqS3Lb1DC9l05VAOuXsN/view?usp=sharing
+
+En caso de tener dificultad para abrir el archivo avisenme :)
