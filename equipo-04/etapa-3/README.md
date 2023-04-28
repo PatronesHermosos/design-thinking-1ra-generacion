@@ -9,13 +9,13 @@ Nombre del equipo: TIG (The Idea Generator)
 
 Nombre de los miembros del equipo: Ana Jimena, Ana, Jimena, A.J.
 
-Describa en una sola frase el planteamiento del problema: Crear un dispositivo capaza de hacer miroahorros de energía y que permita cuidar los apratos de las fallas de voltaje.
+Describa en una sola frase el planteamiento del problema: Ahorrar energía y mejorar la seguridad al usar electricidad
 
 ## Prototipado Low Fidelity
 
 ### Objetivo
 
-Describa en una sola frase el _objetivo_ de tu prototipado low fidelity: Empujador de conectores que además proteja los enchufes con una resistencia individual. Esto se podra controlar por medio de una aplicaión.
+Describa en una sola frase el _objetivo_ de tu prototipado low fidelity: Crear un dispositivo capaz de hacer microahorros de energía y que permita cuidar los aparatos de las fallas de voltaje.
 
 
 (No te olvides de que no es necesario crear un prototipado que muestra la idea entera que tienes. Podrás elegir solamente una parte de la idea, declarar esa parte en el objetivo del prototipado, y crear el prototipado correspondiente.)
