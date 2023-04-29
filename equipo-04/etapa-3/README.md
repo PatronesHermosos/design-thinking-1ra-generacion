@@ -37,3 +37,6 @@ A continuación, inserta aquí una imagen de tu _prototipado low fidelity_:
 ### Video
 
 Liga al _video_ de 5 minutos mostrando el prototipado low fidelity:
+https://drive.google.com/file/d/186cnTBnQostvz7b7kA_VqtZvgx-66TIP/view?usp=sharing
+
+Avísenme en caso de tener problemas con el video :)
