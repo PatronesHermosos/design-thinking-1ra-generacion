@@ -19,6 +19,9 @@ _Es recomendable que cada miembro del equipo muestra el prototipo a la(s) person
 
 Descripción escrita (2 párrafos como máximo) sobre los comentarios que recibiste y los cambios realizados del prototipo de baja fidelidad al prototipo de alta fidelidad:
 
+La retroalimentación fue orientada al uso de colores del logo y a la claridad del objetivo. Del logo me comentaron que podría ser de otro color como amarillo. Acerca de la aplicación me dijeron que la idea es buena, pero que necesito tener claros algunos detalles, como por ejemplo: que las pestañas tuvieran más claro la forma de modificarlas, que tuviera un mejor nombramiento el buena 'estabilidad', que especificara el uso para el hogar o empresarial, y que tuviera una función de apagado total con especificaciones.
+
+
 ## Prototipado alta fidelidad
 
 Tomando como base estas conversaciones con los usuarios potenciales del producto que están diseñando, propongan cambios a su prototipo en función de la prueba de usuario y implementen estos cambios en un prototipo de alta fidelidad de su idea de proyecto final. Suba una foto o video del prototipado de alta fidelidad aquí:
