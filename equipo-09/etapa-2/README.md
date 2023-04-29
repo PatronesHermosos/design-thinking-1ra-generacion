@@ -27,6 +27,9 @@ Claudia
 Lucero 
 ![8S 2](https://user-images.githubusercontent.com/28910027/234748226-c74f6ad8-2ecc-400a-a37c-aa7ef33ee9ad.png)
 
+Utilizamos SCAMPER
+
+![image](https://user-images.githubusercontent.com/126629262/235303519-fb8a166d-41c8-4515-bc7b-c09f3cfd587c.png)
 
 
 
