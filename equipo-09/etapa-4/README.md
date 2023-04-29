@@ -10,7 +10,7 @@ Nombre del equipo: Educación y Oportunidades
 
 Nombre de los miembros del equipo: Lucero Condori y Claudia Torres
 
-Describa en una sola frase su proyecto final: Plataforma educativa orientada a desarrollar habilidades laborales en mamás que desean volver a trabajar desués de dedicarse exclusivamente a la crianza
+Describa en una sola frase su proyecto final: Plataforma educativa orientada a desarrollar habilidades laborales en madres que desean volver a trabajar después de dedicarse exclusivamente a la crianza
 
 ## Prueba del prototipado
 
