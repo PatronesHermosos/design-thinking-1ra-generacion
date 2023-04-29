@@ -6,11 +6,11 @@ Para completar la etapa 4 del proyecto final, llena la siguiente información:
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: TIG (The Ideas Generator)
 
-Nombre de los miembros del equipo:
+Nombre de los miembros del equipo: Ana Jimena, Ana, Jimena, A.J.
 
-Describa en una sola frase su proyecto final:
+Describa en una sola frase su proyecto final: Un enchufe especial que pueda auto desconectarse por medio de una aplicación (que cuenta con otras funciones) y que cuente con resistencia indiviual para resistir fallas de voltaje. 
 
 ## Prueba del prototipado
 
