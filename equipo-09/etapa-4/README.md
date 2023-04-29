@@ -18,7 +18,8 @@ Prueben su prototipo de baja fidelidad con otra persona (amigo/familiar), idealm
 _Es recomendable que cada miembro del equipo muestra el prototipo a la(s) persona(s) que entrevistó durante la Etapa 1 del proyecto._
 
 Descripción escrita (2 párrafos como máximo) sobre los comentarios que recibiste y los cambios realizados del prototipo de baja fidelidad al prototipo de alta fidelidad:
-Al mostrarle a los usuarios la página de inicio, nos preguntaron si los botones "Comunidad", "Temas", "Acompañamiento psicológico" y "Blogs" eran cursos, ya que la sección que las contenía se llamaba "Toma lecciones recomendadas". Los usuarios sí entendieron que los botones "Inicio", "Explora" y "Mis cursos" llevaban a mencionados menúes. Los usuarios entendieron la pantalla del menú "Explora" y del menú "Mis cursos".
+Nuestro primer objetivo era comprobar si el flujo del prototipo se entendía. Al mostrarle a los usuarios la página de inicio, nos preguntaron si los botones "Comunidad", "Temas", "Acompañamiento psicológico" y "Blogs" eran cursos, ya que la sección que las contenía se llamaba "Toma lecciones recomendadas". Los usuarios sí entendieron que los botones "Inicio", "Explora" y "Mis cursos" llevaban a mencionados menúes. Los usuarios entendieron fácilmente las pantallas del menú "Explora" y del menú "Mis cursos". 
+A partir de estos comentarios, cambiamos la posición de los títulos y agregamos secciones en la pantalla de inicio. Agregamos cursos debajo del título de cursos. Además, agregamos otro título, "Explorar", en el cual colocamos los botones "Comunidad", "Temas", "Acompañamiento psicológico" y "Blogs".
 
 
 ## Prototipado alta fidelidad
