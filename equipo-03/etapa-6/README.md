@@ -17,6 +17,7 @@ Describa en una sola frase su proyecto final: Aplicación para fomentar la sauld
 Liga al video de 5 minutos que presenta el prototipo final + resumen del proceso de diseño (entrevista, lluvia de ideas, low fidelity, high fidelity, iteraciones):
 
 Video:
+https://drive.google.com/file/d/15dA9RYPAvYrMXc0rbhX7P7pIjtRb9uhd/view?usp=sharing
 
 Diapositivas:
 https://docs.google.com/presentation/d/1R6j3lucRedfQTkCxOW-t-8a0FDtBVusz/edit?usp=sharing&ouid=107416646009172625349&rtpof=true&sd=true
