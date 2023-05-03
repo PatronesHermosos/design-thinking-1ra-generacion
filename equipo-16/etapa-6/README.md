@@ -15,3 +15,4 @@ Describa en una sola frase su proyecto final: Mejora del aprendizaje de matemát
 ## Video resumen del proyecto y proceso de diseño
 
 Liga al video de 5 minutos que presenta el prototipo final + resumen del proceso de diseño (entrevista, lluvia de ideas, low fidelity, high fidelity, iteraciones): 
+https://youtu.be/xovta-n1UZM
