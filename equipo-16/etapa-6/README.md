@@ -6,11 +6,11 @@ Para completar la etapa 6 del proyecto final, llena la información siguiente:
 
 ## Información General
 
-Nombre del equipo: 
+Nombre del equipo: EduEncers
 
-Nombre de los miembros del equipo: 
+Nombre de los miembros del equipo: Mary Ann Del Rocio Hernani Reynoso
 
-Describa en una sola frase su proyecto final: 
+Describa en una sola frase su proyecto final: Mejora del aprendizaje de matemática en primera infancia con pensamiento computacionala
 
 ## Video resumen del proyecto y proceso de diseño
 
